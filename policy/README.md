@@ -9,11 +9,13 @@
 <a id="sec1"></a>
 ## 表示領域の検討
 <a>教科書の表示する位置や方式について検討する。</a>
-<div><img src="images/textarea1.png" width="300"></div>
-<a>eduの顔を上部にずらし残りの領域で描画を行う。狭い。</a>
 
+1. eduの顔を上部にずらし残りの領域で描画を行う。狭い。
+<div><img src="images/textarea1.png" width="300"></div>
+
+2. eduの顔を小さくもしくは無くして表示領域を拡大する。無くすのは個性的にありか？
 <div><img src="images/textarea2.png" width="300"></div>
-eduの顔を小さくもしくは無くして表示領域を拡大する。無くすのは個性的にありか？
+
 
 ![textarea3](images/textarea3.png)
 プログラムブロックの表示領域を削減し、テキスト幅を拡大する。ブロックは見づらくなるが、もともとあまり使ってない領域であることは間違いない。
