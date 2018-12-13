@@ -1,5 +1,6 @@
 テキスト作成にあたって検討するべき項目についてまとめている。自分なりの意見がある時は各個人で項目に追加してほしい。
 
+
 # 目次
 - [表示領域の検討](#sec1)
 - [教科書レイアウトの検討](#sec2)
@@ -8,10 +9,10 @@
 <a id="sec1"></a>
 ## 表示領域の検討
 <a>教科書の表示する位置や方式について検討する。</a>
-- <div><img src="images/textarea1.png" width="300"></div>
-eduの顔を上部にずらし残りの領域で描画を行う。狭い。
+<div><img src="images/textarea1.png" width="300"></div>
+<div style="padding-bottom: 20px;">eduの顔を上部にずらし残りの領域で描画を行う。狭い。</div>
 
-- <div><img src="images/textarea2.png" width="300"></div>
+<div><img src="images/textarea2.png" width="300"></div>
 eduの顔を小さくもしくは無くして表示領域を拡大する。無くすのは個性的にありか？
 
 ![textarea3](images/textarea3.png)
