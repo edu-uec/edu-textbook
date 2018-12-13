@@ -10,7 +10,7 @@
 ## 表示領域の検討
 <a>教科書の表示する位置や方式について検討する。</a>
 <div><img src="images/textarea1.png" width="300"></div>
-eduの顔を上部にずらし残りの領域で描画を行う。狭い。//
+eduの顔を上部にずらし残りの領域で描画を行う。狭い。<br>
 
 <div><img src="images/textarea2.png" width="300"></div>
 eduの顔を小さくもしくは無くして表示領域を拡大する。無くすのは個性的にありか？
